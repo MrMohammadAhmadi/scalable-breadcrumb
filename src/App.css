@@ -1,0 +1,23 @@
+.list_Item {
+  border: 1px solid blueviolet;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  text-wrap: nowrap;
+}
+.list_container {
+  border: 1px solid black;
+  display: flex;
+  height: 40px;
+  padding: 2px;
+}
+.list_three_container {
+  display: flex;
+  border: 1px solid pink;
+}
+
+.btn {
+  padding: 10px 10px;
+  border: 1px solid blue;
+  border-radius: 5px;
+}
